@@ -8,9 +8,9 @@ using namespace ROBIT_HUMANOID_MOTION_EDITOR;
 int main()
 {
   try {
-    // 모션 YAML 경로 불러오기
+    // 모션 YAML 경로 불러오기 (ROS2의 패키지 공유 디렉토리에서 파일 R/W을 관리하는 것이 권한 문제에 안전함 해당 방법을 권장함)
     const std::string share = ament_index_cpp::get_package_share_directory("motion_editor");
-    const std::string yaml_path = share + "/motion/test_motion.yaml";     // ROS2의 패키지 공유 디렉토리에서 파일 R/W을 관리하는 것이 권한 문제에 안전함 해당 방법을 권장함
+    const std::string yaml_path = share + "/motion/test_motion.yaml";
 
     // MotionEditor 생성
     auto me = std::make_shared<MotionEditor>();
