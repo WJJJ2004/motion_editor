@@ -7,6 +7,7 @@
 ### Build
 ``` bash
 cd ~/colcon_ws
+git clone https://github.com/WJJJ2004/motion_editor.git
 colcon build --packages-select motion_editor
 source install/setup.bash
 ```
