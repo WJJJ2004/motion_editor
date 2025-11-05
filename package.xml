@@ -2,7 +2,7 @@
   <name>motion_editor</name>
   <version>0.0.1</version>
   <description>YAML motion file editor (ROS2/ament build)</description>
-  <maintainer email="you@example.com">you</maintainer>
+  <maintainer email="dldnjswns7412@gmail.com">WJLee</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
