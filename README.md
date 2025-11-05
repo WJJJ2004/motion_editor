@@ -1,4 +1,4 @@
-# MotionEditor
+# ✂️ MotionEditor
 
 > A C++ utility for loading, editing, and saving YAML-based robot motion files.
 > It supports frame lookup, joint editing, and joint-name–to-ID mapping while preserving the original YAML structure.
