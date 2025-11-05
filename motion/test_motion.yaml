@@ -1,0 +1,375 @@
+# test motion file
+- name: ""
+- motor id:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
+    - 21
+    - 22
+- type: motion
+- time: 50
+  delay: 0
+  repeat: 0
+  name: 0
+  selected: false
+  dxl:
+    - id: 0
+      position: 0
+    - id: 1
+      position: 0
+    - id: 2
+      position: -0.18849555921538755
+    - id: 3
+      position: 0.18849555921538755
+    - id: 4
+      position: 0
+    - id: 5
+      position: 0
+    - id: 10
+      position: 0.27331856086231199
+    - id: 11
+      position: -0.27331856086231199
+    - id: 12
+      position: 0
+    - id: 13
+      position: 0
+    - id: 14
+      position: -0.60318578948924051
+    - id: 15
+      position: 0.68800879113616464
+    - id: 16
+      position: 0.86707957239078226
+    - id: 17
+      position: -0.88592912831232096
+    - id: 18
+      position: 0.40526545231308364
+    - id: 19
+      position: -0.40526545231308364
+    - id: 20
+      position: 0.26389378290154258
+    - id: 21
+      position: -0.26389378290154258
+    - id: 22
+      position: 0
+- time: 600
+  delay: 100
+  repeat: 0
+  name: 1
+  selected: false
+  dxl:
+    - id: 0
+      position: 0
+    - id: 1
+      position: 0
+    - id: 2
+      position: -0.18849555921538755
+    - id: 3
+      position: 0.18849555921538755
+    - id: 4
+      position: 0
+    - id: 5
+      position: 0
+    - id: 10
+      position: 0.27331856086231199
+    - id: 11
+      position: -0.27331856086231199
+    - id: 12
+      position: 0
+    - id: 13
+      position: 0
+    - id: 14
+      position: -0.43353978619539185
+    - id: 15
+      position: 0.51836278784231637
+    - id: 16
+      position: 0.52778756580308572
+    - id: 17
+      position: -0.54663712172462442
+    - id: 18
+      position: 0.23561944901923443
+    - id: 19
+      position: -0.23561944901923443
+    - id: 20
+      position: 0.26389378290154258
+    - id: 21
+      position: -0.26389378290154258
+    - id: 22
+      position: 0
+- time: 700
+  delay: 100
+  repeat: 0
+  name: 2
+  selected: false
+  dxl:
+    - id: 0
+      position: 0
+    - id: 1
+      position: 0
+    - id: 2
+      position: -0.2450442269800038
+    - id: 3
+      position: 0.14137166941154067
+    - id: 4
+      position: 0
+    - id: 5
+      position: 0
+    - id: 10
+      position: 0.037699111843077532
+    - id: 11
+      position: -0.45238934211693066
+    - id: 12
+      position: 0
+    - id: 13
+      position: 0
+    - id: 14
+      position: -0.43353978619539185
+    - id: 15
+      position: 0.48066367599923882
+    - id: 16
+      position: 0.52778756580308572
+    - id: 17
+      position: -0.52778756580308572
+    - id: 18
+      position: 0.26389378290154258
+    - id: 19
+      position: -0.2073451151369263
+    - id: 20
+      position: -0.32986722862692841
+    - id: 21
+      position: -0.84823001646924368
+    - id: 22
+      position: 0
+- time: 500
+  delay: 150
+  repeat: 0
+  name: 3
+  selected: false
+  dxl:
+    - id: 0
+      position: 0
+    - id: 1
+      position: 0
+    - id: 2
+      position: -0.2450442269800038
+    - id: 3
+      position: 0.14137166941154067
+    - id: 4
+      position: 0
+    - id: 5
+      position: 0
+    - id: 10
+      position: 0.037699111843077532
+    - id: 11
+      position: -0.45238934211693066
+    - id: 12
+      position: 0
+    - id: 13
+      position: 0
+    - id: 14
+      position: -0.43353978619539185
+    - id: 15
+      position: 0.6785840131753953
+    - id: 16
+      position: 0.52778756580308572
+    - id: 17
+      position: -1.0744246875277088
+    - id: 18
+      position: 0.26389378290154258
+    - id: 19
+      position: -0.48066367599923882
+    - id: 20
+      position: -0.36756634047000603
+    - id: 21
+      position: -0.84823001646924368
+    - id: 22
+      position: 0
+- time: 500
+  delay: 500
+  repeat: 0
+  name: 4
+  selected: false
+  dxl:
+    - id: 0
+      position: 0
+    - id: 1
+      position: 0
+    - id: 2
+      position: -1.3877787807814457e-17
+    - id: 3
+      position: 0.14137166941154067
+    - id: 4
+      position: 0
+    - id: 5
+      position: 0
+    - id: 10
+      position: 0.037699111843077532
+    - id: 11
+      position: -0.51836278784231637
+    - id: 12
+      position: 0
+    - id: 13
+      position: 0.0094247779607693656
+    - id: 14
+      position: -0.57491145560693246
+    - id: 15
+      position: -0.075398223686155064
+    - id: 16
+      position: 0.52778756580308572
+    - id: 17
+      position: -1.734159144781571
+    - id: 18
+      position: 0.27331856086231199
+    - id: 19
+      position: -0.75398223686155008
+    - id: 20
+      position: -0.34871678454846722
+    - id: 21
+      position: -0.44296456415616131
+    - id: 22
+      position: 0
+- time: 70
+  delay: 400
+  repeat: 0
+  name: 5
+  selected: false
+  dxl:
+    - id: 0
+      position: 0
+    - id: 1
+      position: 0
+    - id: 2
+      position: -1.3877787807814457e-17
+    - id: 3
+      position: 0.14137166941154067
+    - id: 4
+      position: 0
+    - id: 5
+      position: 0
+    - id: 10
+      position: 0.037699111843077532
+    - id: 11
+      position: -0.53721234376385507
+    - id: 12
+      position: -0.056548667764616284
+    - id: 13
+      position: -0.0094247779607693656
+    - id: 14
+      position: -0.32044245066615895
+    - id: 15
+      position: 1.4702653618800261
+    - id: 16
+      position: 0.52778756580308572
+    - id: 17
+      position: -0.53721234376385518
+    - id: 18
+      position: 0.23561944901923443
+    - id: 19
+      position: 0.094247779607693843
+    - id: 20
+      position: -0.34871678454846722
+    - id: 21
+      position: -0.33929200658769787
+    - id: 22
+      position: 0
+- time: 500
+  delay: 200
+  repeat: 0
+  name: 6
+  selected: false
+  dxl:
+    - id: 0
+      position: 0
+    - id: 1
+      position: 0
+    - id: 2
+      position: 0.0094247779607693656
+    - id: 3
+      position: 0.14137166941154067
+    - id: 4
+      position: 0
+    - id: 5
+      position: 0
+    - id: 10
+      position: 0.037699111843077532
+    - id: 11
+      position: -0.73513268094001138
+    - id: 12
+      position: 0
+    - id: 13
+      position: 0
+    - id: 14
+      position: -0.31101767270538955
+    - id: 15
+      position: 0.52778756580308583
+    - id: 16
+      position: 0.52778756580308572
+    - id: 17
+      position: -0.99902646384155325
+    - id: 18
+      position: 0.2921681167838508
+    - id: 19
+      position: -0.53721234376385507
+    - id: 20
+      position: -0.41469023027385304
+    - id: 21
+      position: -0.45238934211693071
+    - id: 22
+      position: 0
+- time: 1000
+  delay: 500
+  repeat: 0
+  name: init
+  selected: true
+  dxl:
+    - id: 0
+      position: 0
+    - id: 1
+      position: 0
+    - id: 2
+      position: -0.18849555921538755
+    - id: 3
+      position: 0.18849555921538755
+    - id: 4
+      position: 0
+    - id: 5
+      position: 0
+    - id: 10
+      position: 0.27331856086231199
+    - id: 11
+      position: -0.27331856086231199
+    - id: 12
+      position: 0
+    - id: 13
+      position: 0
+    - id: 14
+      position: -0.43353978619539185
+    - id: 15
+      position: 0.51836278784231637
+    - id: 16
+      position: 0.52778756580308572
+    - id: 17
+      position: -0.54663712172462442
+    - id: 18
+      position: 0.23561944901923443
+    - id: 19
+      position: -0.23561944901923443
+    - id: 20
+      position: 0.26389378290154258
+    - id: 21
+      position: -0.26389378290154258
+    - id: 22
+      position: 0
